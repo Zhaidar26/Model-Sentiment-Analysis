@@ -1,0 +1,10 @@
+# Core Requirements
+streamlit==1.32.0
+pandas==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.1
+nltk==3.8.1
+plotly==5.19.0
+
+# Optional untuk deteksi encoding jika diperlukan
+# chardet==5.2.0
